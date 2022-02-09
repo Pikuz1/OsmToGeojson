@@ -1,0 +1,54 @@
+.leaflet-container{
+    background-color: rgb(173, 226, 226);
+    margin-top: 10px;
+}
+
+.mymap{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.mymap_input-container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    flex-wrap: wrap;
+}
+.mymap_input{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 10px;
+    background-color: rgb(247, 230, 133);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.mymap_input-guide{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(240, 237, 196);
+    background-color: rgb(105, 105, 76);
+}
+
+
+input{
+    height: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(170, 167, 123);
+}
+span{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(141, 124, 103);
+}
+button{
+    background-color: rgb(104, 133, 133);
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(14, 13, 10);
+}
