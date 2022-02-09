@@ -4,14 +4,14 @@
 This is a web app containing a single page to get "GeoJSON features" of a location given with the coordinates (as geolocation box).
 
 Following tasks are done in this app:
--[x] Application needs to make a call to open street map api (https://www.openstreetmap.org/api/0.6/map) gather information in "osm" format, convert it to "GeoJSON" and properly display the dataset.
--[x] Converting data using "osmtogeojson".
--[x] Map is visible using react-leaflet.
--[x] Zoom in and out feature is included from react-leaflet.
--[x] User can enter co-ordinates according to wish but osm accepts only for 50000 nodes data.
--[x] Testing is done by using react test library.
--[x] Application is responsive using flexbox and css.
--[x] Reusability of the components is easy using react-hooks.
+- [x] Application needs to make a call to open street map api (https://www.openstreetmap.org/api/0.6/map) gather information in "osm" format, convert it to "GeoJSON" and properly display the dataset.
+- [x] Converting data using "osmtogeojson".
+- [x] Map is visible using react-leaflet.
+- [x] Zoom in and out feature is included from react-leaflet.
+- [x] User can enter co-ordinates according to wish but osm accepts only for 50000 nodes data.
+- [x] Testing is done by using react test library.
+- [x] Application is responsive using flexbox and css.
+- [x] Reusability of the components is easy using react-hooks.
 
 You can use following commands to start running application:
 
